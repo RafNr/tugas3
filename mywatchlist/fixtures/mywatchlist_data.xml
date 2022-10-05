@@ -1,0 +1,76 @@
+[
+    {
+        "watched": "yes" ,
+        "title": "Spiderman 1" ,
+        "rating": "4" ,
+        "release_date": "24 agustus 2019" ,
+        "review": "good"
+        
+    },
+    {
+        "watched": "yes" ,
+        "title": "Spiderman 2" ,
+        "rating": "3" ,
+        "release_date": "24 agustus 2020" ,
+        "review": "good"
+    },
+
+    {
+        "watched": "yes" ,
+        "title": "Spiderman 3" ,
+        "rating": "4" ,
+        "release_date": "24 agustus 2021" ,
+        "review": "good"
+    },
+    {
+        "watched": "yes" ,
+        "title": "Amazing Spiderman" ,
+        "rating": "2" ,
+        "release_date": "24 agustus 2022" ,
+        "review": "bad"
+    },
+    {
+        "watched": "yes" ,
+        "title": "Amazing Spiderman 2" ,
+        "rating": "4" ,
+        "release_date": "18 december 2022" ,
+        "review": "good"
+    },
+    {
+        "watched": "yes" ,
+        "title": "Spiderman pulang" ,
+        "rating": "3" ,
+        "release_date": "24 agustus 2019" ,
+        "review": "good"
+        
+    },
+    {
+        "watched": "yes" ,
+        "title": "Spiderman engga pulang" ,
+        "rating": "4" ,
+        "release_date": "24 agustus 2019" ,
+        "review": "good"
+    },
+
+    {
+        "watched": "yes" ,
+        "title": "Spiderman pulang kamapung" ,
+        "rating": "5" ,
+        "release_date": "24 agustus 2019" ,
+        "review": "very good"
+    },
+    {
+        "watched": "yes" ,
+        "title": "Spiderman gabung avenger" ,
+        "rating": "3" ,
+        "release_date": "24 agustus 2019" ,
+        "review": "so-so"
+    },
+    {
+        "watched": "no" ,
+        "title": "Spiderman belum rilis" ,
+        "rating": "4" ,
+        "release_date": "24 juni 2025" ,
+        "review": "maybe good"
+    }
+]

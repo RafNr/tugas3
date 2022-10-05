@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<table>
+    <tr>
+    <th>watched</th>
+    <th>tittle</th>
+    <th>rating</th>
+    <th>release_date</th>
+    <th>review</th>
+    </tr>
+    {% for watch in list_watch %}
+        <tr>
+            <th>{{watch.watched}}</th>
+            <th>{{watch.tittle}}</th>
+            <th>{{watch.rating}}</th>
+            <th>{{watch.release_date}}</th>
+            <th>{{watch.review}}</th>
+        </tr>
+    {% endfor %}
+</table>
+
+{% endblock content %}
